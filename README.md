@@ -1,6 +1,5 @@
 # hypixeljs
-A simple, lightweight library for easily accessing the Hypixel API in NodeJS.
-**NOTE: Forgive me for the poor markdown, I'm still learning).**
+A simple, lightweight library for easily accessing the Hypixel API in NodeJS that can loadbalance requests on the fly ensuring you will always have enough.
 
 ## Installing
 `npm install hypixeljs`
