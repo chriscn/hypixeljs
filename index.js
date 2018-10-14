@@ -1,1 +1,1 @@
-module.exports = require('./lib/hypixeljs.js');
+module.exports = require('./lib/api.js');
