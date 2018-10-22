@@ -238,5 +238,10 @@ hypixel.getBoosters((err, boosters) => {
 });
 ```
 
+#### `recentRequests` - Gets the amount of requests used in the last minute.
+```js
+hypixel.recentRequests;
+```
+
 ## Authors
-Created by **DanceDog** with the help of **Thorin**.
+Created by **Thorin / Chris** with the help of [DanceDog](https://github.com/Dance-Dog/)
