@@ -1,6 +1,6 @@
 {
   "name": "hypixeljs",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "A simple library for easily accessing the Hypixel API in NodeJS.",
   "main": "index.js",
   "repository": {
